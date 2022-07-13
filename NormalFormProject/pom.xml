@@ -63,6 +63,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>Bio-Data-Form-exe</finalName>
 	</build>
 
 </project>
